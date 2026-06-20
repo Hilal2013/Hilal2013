@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hilal 👋
+**Backend Java Developer**  — building clean, reliable APIs and microservices with Spring Boot.
+---
+### 💼 Currently
+Backend Java Developer at **Nexus Systems**, working on an Accounts Payable Automation platform.
 
-<!--
-**Hilal2013/Hilal2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Certifications
+- AWS Certified Cloud Practitioner
+- 
+### 📫 Let's connect
+[[LinkedIn]](https://www.linkedin.com/in/hhilalozkann/))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
