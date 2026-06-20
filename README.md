@@ -3,7 +3,6 @@
 ---
 ### 🎓 Certifications
 - AWS Certified Cloud Practitioner
-- 
 ### 📫 Let's connect
 [[LinkedIn]](https://www.linkedin.com/in/hhilalozkann/))
 
